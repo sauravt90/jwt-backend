@@ -1,4 +1,4 @@
-package main
+package server
 
 type IdPass struct {
 	Id       string `json:"id"`
